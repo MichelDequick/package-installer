@@ -7,7 +7,7 @@ if [ -z "$1" ]
     else
 
     # Update source list
-    sudo apt-get install update
+    sudo apt-get update
 
     # Extracting package names out of given file
     readarray -t packages < $1
