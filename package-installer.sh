@@ -28,6 +28,6 @@ if [ -z "$1" ]
         echo "▶ $package"
         sudo apt-get --assume-yes install $package
     done
+    echo "◇ Done"
 fi
 
-echo "◇ Done"
