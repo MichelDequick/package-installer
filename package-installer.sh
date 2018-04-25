@@ -2,7 +2,7 @@
 
 # Font: http://patorjk.com/software/taag/#p=display&f=Slant&t=PkgInstaller
 
-echo """
+echo ""
 echo "    ____  __         ____           __        ____         "
 echo "   / __ \/ /______ _/  _/___  _____/ /_____ _/ / /__  _____"
 echo "  / /_/ / //_/ __ `// // __ \/ ___/ __/ __ `/ / / _ \/ ___/"
